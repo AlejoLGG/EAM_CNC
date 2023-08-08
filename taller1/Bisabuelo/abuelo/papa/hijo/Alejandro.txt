@@ -1,0 +1,5 @@
+Nombre: Alejandro
+Apellido: Cuartas
+Correo: Alejandro@gmail.com
+Rh: O+
+Estatura: 1,76

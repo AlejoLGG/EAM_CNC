@@ -1,0 +1,5 @@
+Nombre: Franco
+Apellido: Cuartas
+Correo: frncoCuartas@gmail.com
+Rh: O-
+Estatura: 1,80

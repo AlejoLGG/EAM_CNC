@@ -1,0 +1,5 @@
+Nombre: Camilo
+Apellido: Cuartas
+Correo: Camilo@gmail.com
+Rh: O-
+Estatura: 1,80

@@ -1,0 +1,5 @@
+Nombre: Pedro
+Apellido: Cuartas
+Correo: Pedro@gmail.com
+Rh: O+
+Estatura: 1,85

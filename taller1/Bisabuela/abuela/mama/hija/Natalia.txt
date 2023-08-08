@@ -1,0 +1,5 @@
+Nombre: Natalia
+Apellido: Villegas
+Correo: nataVi@gmail.com
+Rh: b+
+Estatura: 1,75

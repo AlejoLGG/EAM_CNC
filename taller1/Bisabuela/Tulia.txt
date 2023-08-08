@@ -1,0 +1,5 @@
+Nombre: Tulia
+Apellido: Gomez
+Correo: tuliagomez@gmail.com
+Rh: ab
+Estatura: 1,64

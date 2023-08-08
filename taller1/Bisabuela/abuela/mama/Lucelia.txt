@@ -1,0 +1,5 @@
+Nombre: Lucelia
+Apellido: Gomez
+Correo: lucegomez@gmail.com
+Rh: O-
+Estatura: 1.60

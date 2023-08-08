@@ -1,0 +1,5 @@
+Nombre: Sara
+Apellido: Gomez
+Correo: sara@gmail.com
+RH: O+
+Estatura: 1,60
